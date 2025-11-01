@@ -74,6 +74,9 @@ Gaining actionable insights from business data
 This project showcases the power of data visualization and business intelligence in understanding e-commerce trends. With Power BI, raw sales data was transformed into meaningful insights that can help businesses make informed, data-driven decisions.
 
 ### Author:
+
 **Developed by:** Anand Kumar
+
 **GitHub:** https://github.com/yourusername
 **LinkedIn:** 
+https://www.linkedin.com/in/anand-kumar-201106297/
